@@ -38,7 +38,7 @@
     --color-scale-blue-9: #05264c;
     --mark-bg: #ffde67;
     --mark-text: #080a10;
-    --color-cm-keyword: #3b78e7;
+    --color-cm-keyword: #5d7eb9;
     --color-cm-attr: #9c27b0;
     --color-cm-comment: #6a737d;
     --color-cm-string: #0d904f;
@@ -115,7 +115,7 @@
     --warn-filled: url("data:image/svg+xml;utf8,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%0A%3Cpath%20d%3D%22M8.68569%202.85232L2.12696%2014.7773C1.57714%2015.777%202.30038%2017.0002%203.44129%2017.0002H16.5587C17.6996%2017.0002%2018.4229%2015.777%2017.8731%2014.7773L11.3143%202.85232C10.7444%201.81615%209.25558%201.81616%208.68569%202.85232ZM10%206.75016C10.4142%206.75016%2010.75%207.08595%2010.75%207.50016V11.5002C10.75%2011.9144%2010.4142%2012.2502%2010%2012.2502C9.58579%2012.2502%209.25%2011.9144%209.25%2011.5002V7.50016C9.25%207.08595%209.58579%206.75016%2010%206.75016ZM10.75%2013.7502C10.75%2014.1644%2010.4142%2014.5002%2010%2014.5002C9.58579%2014.5002%209.25%2014.1644%209.25%2013.7502C9.25%2013.3359%209.58579%2013.0002%2010%2013.0002C10.4142%2013.0002%2010.75%2013.3359%2010.75%2013.7502Z%22%20fill%3D%22%238a2a0d%22/%3E%0A%3C/svg%3E%0A");
     --light-bulb-filled: url("data:image/svg+xml;utf8,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%0A%3Cpath%20d%3D%22M13.073%2015L12.6891%2016.6051C12.5048%2017.3763%2011.8236%2017.935%2011.0181%2017.9947L10.8748%2018H9.12546C8.30655%2018%207.59%2017.4839%207.34866%2016.7385L7.31108%2016.6047L6.928%2015H13.073Z%22%20fill%3D%22%23b0791b%22/%3E%0A%3Cpath%20d%3D%22M10%202C13.3137%202%2016%204.59693%2016%207.80041C16%209.47737%2015.2546%2011.0164%2013.7961%2012.3942C13.7324%2012.4544%2013.6831%2012.5269%2013.6512%2012.6065L13.6251%2012.6883L13.311%2014H10.5002V9.49707C10.5002%209.22093%2010.2764%208.99707%2010.0002%208.99707C9.7241%208.99707%209.50024%209.22093%209.50024%209.49707V14H6.689L6.37626%2012.6886C6.34955%2012.5766%206.29016%2012.4745%206.20516%2012.3942C4.8153%2011.0819%204.07265%209.62354%204.00507%208.03903L4%207.80041L4.00321%207.60894C4.1077%204.49409%206.75257%202%2010%202ZM9.5%206.50238V7.50391C9.5%207.78005%209.72386%208.00391%2010%208.00391C10.2761%208.00391%2010.5%207.78005%2010.5%207.50391V6.50238C10.5%206.22624%2010.2761%206.00238%2010%206.00238C9.72386%206.00238%209.5%206.22624%209.5%206.50238ZM12.8506%207.44332C12.6553%207.24806%2012.3388%207.24806%2012.1435%207.44332L11.4353%208.15151C11.2401%208.34677%2011.2401%208.66335%2011.4353%208.85861C11.6306%209.05388%2011.9472%209.05388%2012.1424%208.85861L12.8506%208.15043C13.0459%207.95517%2013.0459%207.63858%2012.8506%207.44332ZM7.8521%207.44332C7.65684%207.24806%207.34026%207.24806%207.145%207.44332C6.94973%207.63858%206.94973%207.95517%207.145%208.15043L7.85318%208.85861C8.04844%209.05388%208.36503%209.05388%208.56029%208.85861C8.75555%208.66335%208.75555%208.34677%208.56029%208.15151L7.8521%207.44332Z%22%20fill%3D%22%23b0791b%22/%3E%0A%3C/svg%3E%0A");
     --note-filled: url("data:image/svg+xml;utf8,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%0A%3Cpath%20d%3D%22M14%203C15.5977%203%2016.9037%204.24892%2016.9949%205.82373L17%206V10H13L12.8237%2010.0051C11.3072%2010.093%2010.093%2011.3072%2010.0051%2012.8237L10%2013V17H6C4.40232%2017%203.09634%2015.7511%203.00509%2014.1763L3%2014V6C3%204.40232%204.24892%203.09634%205.82373%203.00509L6%203H14ZM16.9007%2011.001C16.8232%2011.2376%2016.7018%2011.459%2016.5416%2011.6528L16.4142%2011.7929L11.7929%2016.4142C11.5687%2016.6384%2011.2968%2016.8039%2011.001%2016.9007L11%2013L11.0055%2012.8507C11.078%2011.8676%2011.8612%2011.0821%2012.8433%2011.006L13%2011L16.9007%2011.001Z%22%20fill%3D%22%23004d40%22/%3E%0A%3C/svg%3E%0A");
-    --elevated-background: var(--color-scale-gray-0);
+    --elevated-background: var(--color-scale-blue-0);
     --border: #f1f3f4;
     --icon-color: var(--text-color);
     --icon-filer: brightness(10);
@@ -280,11 +280,13 @@ h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, 
 h1 {
     font-size: 2.25em;
     line-height: 1.2;
+    color: var(--primary-color)!important;
 }
 
 h2 {
     font-size: 1.75em;
     line-height: 1.225;
+    color: var(--color-scale-blue-6)!important;
 }
 
 h3 {
@@ -345,13 +347,14 @@ ul:last-child, ol:last-child {
 }
 
 blockquote {
-    color: var(--text-color);
+    color: var(--color-scale-gray-6);
     border: 1px solid var(--border);
     background-color: var(--elevated-background);
     border-radius: 4px;
     padding: 12px 16px;
     overflow: hidden;
     box-sizing: border-box;
+    border-left: 5px solid var(--primary-color);
 }
 
 blockquote blockquote {
@@ -401,14 +404,14 @@ table th:last-child, table td:last-child {
 
 .code-tooltip {
     border: 1px solid var(--border);
-    background-color: var(--elevated-background);
+    background-color: var(--color-scale-blue-1);
     border-radius: 4px;
     font-family: var(--general-font);
     box-shadow: none!important;
 }
 
 .md-fences, code, tt {
-    color: var(--text-color);
+    color: var(--color-scale-blue-9);
     border: 1px solid var(--border);
     background-color: var(--elevated-background);
     border-radius: 4px;
@@ -819,6 +822,12 @@ del {
     opacity: .3;
 }
 
+strong {
+    color: var(--primary-color);
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
 .sidebar-footer-item {
     height: 100%;
     vertical-align: middle;
@@ -831,10 +840,6 @@ del {
 
 .file-library-node.file-tree-node.active>.file-node-content {
     color: white;
-}
-
-.file-library-node.file-tree-node.active.file-node-on-edit>.file-node-content {
-    color: inherit;
 }
 
 .file-library-node.file-tree-node.active>.file-node-content>i {
